@@ -1,33 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-
-    <color name="purple_200">#FFBB86FC</color>
-    <color name="purple_500">#FF6200EE</color>
-    <color name="purple_700">#FF3700B3</color>
-    <color name="teal_200">#FF03DAC5</color>
-    <color name="teal_700">#FF018786</color>
-
+    <color name="gradient_ee9ca7">#80ee9ca7</color>
+    <color name="gradient_ffdde1">#80ffdde1</color>
+    <color name="gradient_2193b0">#802193b0</color>
+    <color name="gradient_6dd5ed">#806dd5ed</color>
+    <color name="gradient_ff0099">#80ff0099</color>
+    <color name="gradient_493240">#80493240</color>
+    <color name="gradient_b92b27">#80b92b27</color>
+    <color name="gradient_1565c0">#801565c0</color>
+    <color name="gradient_1f4037">#801f4037</color>
+    <color name="gradient_99f2c8">#8099f2c8</color>
+    <color name="gradient_659999">#80659999</color>
+    <color name="gradient_f4791f">#80f4791f</color>
+    <color name="gradient_283c86">#80283c86</color>
+    <color name="gradient_45a247">#8045a247</color>
+    <color name="gradient_654ea3">#80654ea3</color>
+    <color name="gradient_eaafc8">#80eaafc8</color>
+    <color name="gradient_fdc830">#80fdc830</color>
+    <color name="gradient_f37335">#80f37335</color>
+    <color name="gradient_ad5389">#80ad5389</color>
+    <color name="gradient_3c1053">#803c1053</color>
+    <color name="gradient_23074d">#8023074d</color>
+    <color name="gradient_cc5333">#80cc5333</color>
+    <color name="gradient_74ebd5">#8074ebd5</color>
+    <color name="gradient_acb6e5">#80acb6e5</color>
+    <color name="gradient_000000">#80000000</color>
+    <color name="gradient_0f9b0f">#800f9b0f</color>
+    <color name="gradient_eb5757">#80eb5757</color>
+    <color name="gradient_d66d75">#80d66d75</color>
+    <color name="gradient_e29587">#80e29587</color>
+    <color name="gradient_4568dc">#804568dc</color>
+    <color name="gradient_b06ab3">#80b06ab3</color>
 
     <color name="float_btn">#FF78F0</color>
-
-    <color name="gradient_pink">#C3FB8FFF</color>
-    <color name="gradient_purple">#C2BD22E0</color>
-    <color name="gradient_yellow">#C2FFFC00</color>
-    <color name="gradient_white">#C2FFFFFF</color>
-
-    <color name="gradient_dark_blue">#C20083B0</color>
-    <color name="gradient_light_blue">#C2B2FEFA</color>
-    <color name="gradient_black">#C2000000</color>
-    <color name="gradient_green">#C238EF7D</color>
-    <color name="gradient_dark_green">#C211998E</color>
-    <color name="gradient_red">#C2C31432</color>
-    <color name="gradient_dark_purple">#C2240B36</color>
-    <color name="gradient_orange">#C2FF4B2B</color>
-    <color name="gradient_dark_pink">#C2FF416C</color>
-
-
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
 
 </resources>
