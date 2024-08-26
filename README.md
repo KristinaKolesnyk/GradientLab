@@ -8,6 +8,10 @@
 - **Custom Gradients:** Define your own gradients by setting specific colors, orientations, and gradient types (Linear, Radial, or Sweep).
 - **Drawable Image Support:** Easily load and display images from local drawable resources alongside gradient backgrounds.
 - **Remote Image Loading:** Fetch and display images directly from URLs, complete with customizable error and placeholder images.
+<img width="250" height = "250" alt="Screenshot 2024-08-26 at 22 18 12" src="https://github.com/user-attachments/assets/54ebea33-e97c-4f92-b4ab-161d49ea3b6f">
+<img width="250" height = "250" alt="Screenshot 2024-08-26 at 22 18 39" src="https://github.com/user-attachments/assets/02b77126-b04b-4446-b7fa-733beb3ff629">
+<img width="250" height = "250" alt="Screenshot 2024-08-26 at 22 19 05" src="https://github.com/user-attachments/assets/bfac3923-70b3-4390-aa02-4b7f011e32d7">
+
 
 ## Getting Started
 
